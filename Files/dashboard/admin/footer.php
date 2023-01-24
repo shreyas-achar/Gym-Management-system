@@ -1,0 +1,1 @@
+<footer class="main" style="margin-top:20px"><strong>Gym Management </strong> By Shreya and Shreyas</footer>
